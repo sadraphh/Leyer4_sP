@@ -17,8 +17,6 @@ This code write by [sadraphh](https://github.com/sadraphh/)
 ## Scr
 [![image](https://cdn.arstechnica.net/wp-content/uploads/2012/08/dirt-jumper-exploit.png)](https://github.com/sadraphh)
 
-### Working...
-[!(https://cloudflare.com/img/learning/ddos/what-is-a-ddos-attack/ntp-amplification-botnet-ddos-attack.png)](https://github.com/sadraphh)
 
 **Installing**
 ``` sh
